@@ -1,6 +1,6 @@
 {
   "name": "nx-cmd",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "This is the command pattern implementation for NEXOES",
   "repository": "https://github.com/nexoes/nx-cmd",
   "main": "index.js",

@@ -2,6 +2,7 @@
   "name": "nx-cmd",
   "version": "0.0.3",
   "description": "This is the command pattern implementation for NEXOES",
+  "repository": "https://github.com/nexoes/nx-cmd",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,19 +12,6 @@
     "email": "npm@petermolgaard.com"
   },
   "license": "MIT",
-  "_id": "nx-cmd@0.0.1",
-  "dist": {
-    "shasum": "93fcc3b1fefb6384ee08a03560994de62633da8f",
-    "tarball": "http://registry.npmjs.org/nx-cmd/-/nx-cmd-0.0.1.tgz"
-  },
-  "_from": "nx-cmd@",
-  "_npmVersion": "1.4.3",
-  "_npmUser": {
-    "name": "pmoelgaard",
-    "email": "npm@petermolgaard.com"
-  },
   "maintainers": [],
-  "directories": {},
-  "_shasum": "93fcc3b1fefb6384ee08a03560994de62633da8f",
-  "_resolved": "https://registry.npmjs.org/nx-cmd/-/nx-cmd-0.0.1.tgz"
+  "directories": {}
 }

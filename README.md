@@ -1,0 +1,2 @@
+# cmd
+nx-cmd
